@@ -7,3 +7,4 @@
 ramisec/nessus:latest
 sonarqube:latest
 sonarsource/sonar-scanner-cli:latest
+vuln_ubuntu
