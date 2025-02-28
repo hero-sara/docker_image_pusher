@@ -7,4 +7,3 @@
 ramisec/nessus:latest
 sonarqube:latest
 sonarsource/sonar-scanner-cli:latest
-docker.io/library/ubuntu:21.10
